@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Zoopedia</string>
+    <string name="welcome_to_zoopedia">Welcome to Zoopedia</string>
+    <string name="developer_email">ranggasaputra200412@gmail.com</string>
+    <string name="developer_name">Rangga Saputra</string>
+    <string name="animal_image_view">Animal Image View</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_scientific_name">Animal Scientific Name</string>
+    <string name="animal_description">Animal Description</string>
+    <string name="animal_favorite_foods">Animal Favorite Foods</string>
+    <string name="food_image_1">Food Image 1</string>
+    <string name="food_1">Food 1</string>
+    <string name="food_image_2">Food Image 2</string>
+    <string name="food_2">Food 2</string>
+    <string name="food_image_3">Food Image 3</string>
+    <string name="food_3">Food 3</string>
+    <string name="fun_fact_about_animal">Fun Fact About Animal</string>
+    <string name="animal_fun_facts">Animal Fun Facts</string>
+    <string name="share_to_your_friends">Share To Your Friends</string>
+    <string name="source_for_details_information">Source Information</string>
+
+<!--    <string-array name="data_name">-->
+<!--        <item>Ahmad Dahlan</item>-->
+<!--        <item>Ahmad Yani</item>-->
+<!--        <item>Sutomo</item>-->
+<!--        <item>Gatot Soebroto</item>-->
+<!--        <item>Ki Hadjar Dewantara</item>-->
+<!--        <item>Mohammad Hatta</item>-->
+<!--        <item>Soedirman</item>-->
+<!--        <item>Soekarno</item>-->
+<!--        <item>Soepomo</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="data_description">-->
+<!--        <item>Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H. Ahmad Dahlan adalah puteri dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu. KH. Ahmad Dahlan telah mempelopori kebangkitan ummat Islam untuk menyadari nasibnya sebagai bangsa terjajah yang masih harus belajar dan berbuat. </item>-->
+<!--        <item>Jenderal TNI Anumerta Ahmad Yani (juga dieja Achmad Yani; lahir di Purworejo, Jawa Tengah, 19 Juni 1922 – meninggal di Lubang Buaya, Jakarta, 1 Oktober 1965 pada umur 43 tahun) adalah komandan Tentara Nasional Indonesia Angkatan Darat, dan dibunuh oleh anggota Gerakan 30 September saat mencoba untuk menculik dia dari rumahnya.</item>-->
+<!--        <item>Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober 1920 – meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981 pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah Belanda melalui tentara NICA, yang berakhir dengan pertempuran 10 November 1945 yang hingga kini diperingati sebagai Hari Pahlawan.</item>-->
+<!--        <item>Jenderal TNI (Purn.) Gatot Soebroto (lahir di Sumpiuh, Banyumas, Jawa Tengah, 10 Oktober 1907 – meninggal di Jakarta, 11 Juni 1962 pada umur 54 tahun) adalah tokoh perjuangan militer Indonesia dalam merebut kemerdekaan dan juga pahlawan nasional Indonesia. Ia dimakamkan di Ungaran, kabupaten Semarang.</item>-->
+<!--        <item>Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lahir di Pakualaman, 2 Mei 1889 – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun; selanjutnya disingkat sebagai "Soewardi" atau "KHD") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.</item>-->
+<!--        <item>Dr.(HC) Drs. H. Mohammad Hatta (lahir dengan nama Mohammad Athar, dikenal sebagai Bung Hatta; lahir di Fort de Kock (sekarang Bukittinggi, Sumatera Barat), Hindia Belanda, 12 Agustus 1902 – meninggal di Jakarta, 14 Maret 1980 pada umur 77 tahun) adalah tokoh pejuang, negarawan, ekonom, dan juga Wakil Presiden Indonesia yang pertama. Ia bersama Soekarno memainkan peranan penting untuk memerdekakan bangsa Indonesia dari penjajahan Belanda sekaligus memproklamirkannya pada 17 Agustus 1945. Ia juga pernah menjabat sebagai Perdana Menteri dalam Kabinet Hatta I, Hatta II, dan RIS. Ia mundur dari jabatan wakil presiden pada tahun 1956, karena berselisih dengan Presiden Soekarno. Hatta juga dikenal sebagai Bapak Koperasi Indonesia.</item>-->
+<!--        <item>Jenderal Besar Raden Soedirman (EYD: Sudirman; lahir 24 Januari 1916 – meninggal 29 Januari 1950 pada umur 34 tahun) adalah seorang perwira tinggi Indonesia pada masa Revolusi Nasional Indonesia. Menjadi panglima besar Tentara Nasional Indonesia pertama, ia secara luas terus dihormati di Indonesia. Terlahir dari pasangan rakyat biasa di Purbalingga, Hindia Belanda, Soedirman diadopsi oleh pamannya yang seorang priyayi. Setelah keluarganya pindah ke Cilacap pada tahun 1916, Soedirman tumbuh menjadi seorang siswa rajin; ia sangat aktif dalam kegiatan ekstrakurikuler, termasuk mengikuti program kepanduan yang dijalankan oleh organisasi Islam Muhammadiyah. Saat di sekolah menengah, Soedirman mulai menunjukkan kemampuannya dalam memimpin dan berorganisasi, dan dihormati oleh masyarakat karena ketaatannya pada Islam. Setelah berhenti kuliah keguruan, pada 1936 ia mulai bekerja sebagai seorang guru, dan kemudian menjadi kepala sekolah, di sekolah dasar Muhammadiyah; ia juga aktif dalam kegiatan Muhammadiyah lainnya dan menjadi pemimpin Kelompok Pemuda Muhammadiyah pada tahun 1937. Setelah Jepang menduduki Hindia Belanda pada 1942, Soedirman tetap mengajar. Pada tahun 1944, ia bergabung dengan tentara Pembela Tanah Air (PETA) yang disponsori Jepang, menjabat sebagai komandan batalion di Banyumas. Selama menjabat, Soedirman bersama rekannya sesama prajurit melakukan pemberontakan, namun kemudian diasingkan ke Bogor.</item>-->
+<!--        <item>Dr.(H.C.) Ir. H. Soekarno (ER, EYD: Sukarno, nama lahir: Koesno Sosrodihardjo) (lahir di Surabaya, Jawa Timur, 6 Juni 1901 – meninggal di Jakarta, 21 Juni 1970 pada umur 69 tahun) adalah Presiden pertama Republik Indonesia yang menjabat pada periode 1945–1967. Ia memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda. Ia adalah Proklamator Kemerdekaan Indonesia (bersama dengan Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945. Soekarno adalah yang pertama kali mencetuskan konsep mengenai Pancasila sebagai dasar negara Indonesia dan ia sendiri yang menamainya.</item>-->
+<!--        <item>Prof. Mr. Dr. Soepomo (Ejaan Soewandi: Supomo; lahir di Sukoharjo, Jawa Tengah, 22 Januari 1903 – meninggal di Jakarta, 12 September 1958 pada umur 55 tahun) adalah seorang pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.</item>-->
+<!--    </string-array>-->
+
+    <integer-array name="data_photo">
+        <item>@drawable/panda</item>
+        <item>@drawable/panda_merah</item>
+        <item>@drawable/belalang</item>
+        <item>@drawable/hiu_besar</item>
+        <item>@drawable/ikan_giru</item>
+        <item>@drawable/koala</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/serigala_2</item>
+        <item>@drawable/burung_koliri</item>
+    </integer-array>
+
+    <string-array name="animal_name">
+        <item>Ikan Hiu</item>
+        <item>Panda</item>
+        <item>Koala</item>
+        <item>Komodo</item>
+        <item>Burung Kolibri</item>
+        <item>Serigala</item>
+        <item>Panda Merah</item>
+        <item>Belalang Sentadu</item>
+        <item>Ikan Giru</item>
+        <item>Elang Bondol</item>
+    </string-array>
+
+    <string-array name="animal_scientific_name">
+        <item>Carcharodon carcharias</item>
+        <item>Ailuropoda melanoleuca</item>
+        <item>Phascolarctos cinereus</item>
+        <item>Varanus komodoensis</item>
+        <item>Trochilidae</item>
+        <item>Canis lupus</item>
+        <item>Ailurus fulgens</item>
+        <item>Mantodea</item>
+        <item>Amphiprioninae</item>
+        <item>Haliastur indus</item>
+    </string-array>
+
+    <string-array name="animal_description">
+        <item>Hiu adalah salah satu predator puncak rantai makanan di lautan. Walaupun di film - film ikan hiu digambarkan sangat menakutkan dan akan selalu memangsa manusia, akan tetapi manusia bukanlah makanan favorit dari hiu melainkan ikan - ikan yang lebih kecil dari dia. Walaupun banyak sekali spesies hiu yang ada sekarang akan tetapi hiu putih termasuk hewan yang rentan, yang artinya spesies ini bisa saja menjadi terancam punah jika tidak ada penanganan keselamatan dan reproduksi spesies ini. </item>
+        <item>Panda adalah salah satu hewan yang sangat disukai oleh banyak orang. Selain badannya yang besar dan tingkahnya yang menggemaskan ternyata panda memiliki 6 jari di tumit kaki depan mereka loh. Walaupun panda tergolong sebagai hewan herbivora, akan tetapi panda memiliki gigi dan pencernaan hewan karnivora. Panda juga termasuk ke daftar hewan yang rentan, yang artinya panda bisa saja menjadi terancam punah jika tidak ada penanganan keselamatan dan reproduksi spesies ini </item>
+        <item>Koala adalah hewan yang sangat iconic di negara Australia. Salah satu hewan favorit banyak orang ini memiliki fakta unik yaitu hewan yang sangat jarang minum air. Mengapa koala sangat jarang minum air dikarenakan makanannya yaitu daun eukaliptus sudah mengandung cukup air sehingga koala tidak perlu turun dari pohon untuk minum air. Koala juga termasuk dengan spesies rentan, yang artinya hewan ini bisa saja terancam punah jika tidak ada penanganan keselamatan dan reproduksi spesies. </item>
+        <item>Komodo adalah salah satu hewan purba yang berasal dari Indonesia. Kenapa disebut hewan purba, dikarenakan nenek moyang komodo sudah ada sejak 30 juta tahun yang lalu. Komodo sendiri tinggal di pulau komodo yang berada di provinsi nusa tenggara timur. Salah satu yang unik dari komodo adalah gigitannya yang mengandung banyak bakteri berbahaya. Dikarenakan jumlah komodo yang sedikit, sekarang komodo ditetapkan sebagai hewan yang terancam punah dan tujuan taman nasional komodo didirikan adalah untuk menjaga dan melindungi komodo </item>
+        <item>Burung Kolibri adalah burung mungil dan cantik pemakan nektar. Walaupun tubuhnya kecil tapi kepakan sayapnya sangat cepat yaitu 12 - 80 kepakan per detik, karena kepakan yang cepat itu ketika kita berada di dekat burung kolibri kita bisa mendengar suara dengungan. Bisa dibilang burung kolibri memiliki peran yang mirip dengan lebah, yaitu mengantar serbuk sari ke bunga lainnya. Uniknya burung kolibri betina berukuran lebih besar dari burung kolibri jantan </item>
+        <item>Serigala adalah salah satu hewan yang berkerabat dekat dengan hewan peliharaan kita yaitu anjing. Berbeda dengan anjing serigala hidup di alam liar secara berkelompok untuk berburu hewan hewan seperti rusa, babi hutan dan kerbau. Serigala termasuk hewan yang memiliki rasa kepemimpinan dimana serigala alpha atau bisa kita sebut serigala yang terkuat dikawanannya akan memimpin dan melindungi kawanannya, oleh sebab itu tak jarang kita bisa melihat beberapa kelompok seperti tentara menggunakan gambar serigala sebagai simbol kepemimpinan dan kekeluargaan.</item>
+        <item>Panda Merah adalah salah satu hewan menggemaskan yang ukurannya tidak sebesar dengan panda raksasa yang hitam putih itu loh. Memang sebelumnya Panda Merah ditempatkan dalam suku keluarga beruang ursidae karena memiliki kesamaan dengan Panda, akan tetapi sekarang Panda Merah dimasukkan kedalam suku tunggal Ailuridae. Walaupun Panda Merah memiliki sistem pencernaan hewan karnivora, Panda Merah memiliki kebiasaan seperti hewan herbivora. Makanan utamanya adalah bambu, beri, akar akaran, aneka tumbuhan dan untuk menambah gizi panda merah juga memakan telur, serangga dan hewan kecil lainnya loh.</item>
+        <item>Belalang sentadu atau sering kita kenal dengan sebutan Belalang Sembah adalah salah satu serangga yang memiliki nama sebutan yang unik yaitu praying mantis. Mengapa dia disebut praying mantis dikarenakan sikapnya yang terlihat seperti sedang berdoa. Belalang sembah termasuk serangga yang kanibal karena saat musim kawin, belalang sembah betina akan memakan belalang sembah pejantan selama proses perkawinan. Belalang Sembah termasuk serangga yang ganas dan kuat dikarenakan Belalang Sembah bisa saja memangsa kadal yang pada dasarnya kadal memiliki tubuh yang lebih besar dari Belalang Sembah itu sendiri.</item>
+        <item>Ikan Giru atau yang sering kita kenal dengan ikan badut adalah jenis ikan yang banyak digemari dikarenakan penayangan film yang berjudul finding nemo. Ikan Giru bersimbiosis mutualisme dengan anemon laut, anemon laut akan melindungi ikan giru dari pemangsa dan Ikan Giru akan membersihkan anemon dengan memakan sisa sisa makanan anemon laut. Dikarenakan warnanya yang indah dan menarik banyak penggemar ikan menangkap ikan ini dan dijadikan peliharaan di akuarium mereka.</item>
+        <item>Elang Bondol adalah spesies burung pemangsa dari famili Accipitridae. Elang Bondol tersebar dibanyak negara seperti India, China selatan, Asia tenggara, Indonesia, Australia. Elang Bondol bisa terbang melayang setinggi 20 - 50 meter diatas permukaan. Habitat favorit dari Elang Bondol itu sendiri adalah area tepi laut yang berlumpur seperti hutan mangrove, muara sungai, dan pesisir pantai. Walaupun Elang Bondol termasuk kedalam kelompok Burung Pemangsa tak jarang kita dapat menemukan Elang Bondol sedang memakan bangkai hewan lain. </item>
+    </string-array>
+
+    <integer-array name="animal_photo">
+        <item>@drawable/hiu_besar</item>
+        <item>@drawable/panda</item>
+        <item>@drawable/koala</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/burung_koliri</item>
+        <item>@drawable/serigala_2</item>
+        <item>@drawable/panda_merah</item>
+        <item>@drawable/belalang</item>
+        <item>@drawable/ikan_giru</item>
+        <item>@drawable/elang_bondol</item>
+    </integer-array>
+
+    <string-array name="animal_food_1">
+        <item>Ikan Kecil</item>
+        <item>Bambu</item>
+        <item>Daun Pohon Eukaliptus</item>
+        <item>Bangkai Hewan</item>
+        <item>Nektar Bunga</item>
+        <item>Rusa</item>
+        <item>Bambu</item>
+        <item>Jangkrik</item>
+        <item>Sisa Makanan Anemon</item>
+        <item>Ikan</item>
+    </string-array>
+
+    <integer-array name="animal_food_category_1">
+        <item>@drawable/sea_food</item>
+        <item>@drawable/bamboo_food</item>
+        <item>@drawable/eukaliptus_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/honey_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/bamboo_food</item>
+        <item>@drawable/insect_food</item>
+        <item>@drawable/anemon_food</item>
+        <item>@drawable/sea_food</item>
+    </integer-array>
+
+    <string-array name="animal_food_2">
+        <item>Gurita</item>
+        <item>Bambu</item>
+        <item>Daun Pohon Eukaliptus</item>
+        <item>Kambing</item>
+        <item>Serangga Kecil</item>
+        <item>Babi Hutan</item>
+        <item>Beri</item>
+        <item>Kupu - Kupu</item>
+        <item>Sisa Makanan Anemon</item>
+        <item>Katak</item>
+    </string-array>
+
+    <integer-array name="animal_food_category_2">
+        <item>@drawable/octopus_food</item>
+        <item>@drawable/bamboo_food</item>
+        <item>@drawable/eukaliptus_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/insect_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/berry_food</item>
+        <item>@drawable/butterfly_food</item>
+        <item>@drawable/anemon_food</item>
+        <item>@drawable/frog_food</item>
+    </integer-array>
+
+    <string-array name="animal_food_3">
+        <item>Penyu Laut</item>
+        <item>Bambu</item>
+        <item>Daun Pohon Eukaliptus</item>
+        <item>Babi Hutan</item>
+        <item>Telur Serangga</item>
+        <item>Kerbau</item>
+        <item>Akar - akaran</item>
+        <item>Lebah</item>
+        <item>Sisa Makanan Anemon</item>
+        <item>Hewan Pengerat</item>
+    </string-array>
+
+    <integer-array name="animal_food_category_3">
+        <item>@drawable/turtle_food</item>
+        <item>@drawable/bamboo_food</item>
+        <item>@drawable/eukaliptus_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/insect_food</item>
+        <item>@drawable/carnivore_food</item>
+        <item>@drawable/root_food</item>
+        <item>@drawable/bee_food</item>
+        <item>@drawable/anemon_food</item>
+        <item>@drawable/rat_food</item>
+    </integer-array>
+
+    <string-array name="animal_fun_fact">
+        <item>- Hidup di air asin\n- Hewan Karnivora\n- Umur Hiu bisa mencapai 70 tahun\n- Panjang hiu bisa sampai 6 meter\n- Berat Hiu bisa sampai 3,18 ton</item>
+        <item>- Hewan Herbivora\n- Hidup di daratan\n- Umur Panda bisa mencapai lebih dari 20 tahun\n- Berat Panda bisa sampai 117,5 kg\n- Panda memiliki tinggi dari 60 - 90 cm</item>
+        <item>- Salah satu hewan herbivora\n- Hidup di pohon eukaliptus\n- Panjang tubuh koala mencapai 60 - 85 cm\n- Berat tubuh koala 4 - 15 kg\n- Benar benar menyukai daun eukaliptus</item>
+        <item>- Salah satu hewan karnivora\n- Hidup di daratan pulau komodo\n- Panjang tubuh Komodo bisa mencapai 2 - 3 Meter\n- Berat Komodo bisa mencapai 100 kg</item>
+        <item>- Salah satu jenis burung terkecil di dunia\n- Termasuk Hewan Omnivora\n- Panjang burung kolibri bisa mencapai 6,4 cm\n- Sebagian besar spesies Burung Kolibri terletak di Amerika Utara dan Amerika Selatan</item>
+        <item>- Salah satu hewan karnivora\n- Tinggi serigala bisa mencapai 60 - 80 cm, \n- Berat serigala bisa memiliki berat 23 - 59 kg\n- Menggunakan lolongan sebagai salah satu cara berkomunikasi</item>
+        <item>- Salah satu hewan omnivora\n- Termasuk hewan yang vulnerable/rentan terancam punah\n- Panda Merah memiliki panjang 58 cm\n- Panda Merah bisa memiliki berat badan 3,7 - 6,2 kg untuk pejantan dan 3 - 6 kg untuk betina </item>
+        <item>- Salah satu serangga karnivora\n- Belalang Sembah bisa memiliki panjang tubuh 17 cm\n- Beberapa spesies memiliki kemampuan untuk berkamuflase\n- Ada 2300 jenis spesies diseluruh dunia</item>
+        <item>- Hidup di air asin\n- Ikan Giru bisa memiliki panjang tubuh hingga 18 cm\n- Terdapat 28 spesies yang tersebar di lautan Pasifik, Laut Merah, Lautan India dan Karang Besar di Australia</item>
+        <item>- Salah satu hewan karnivora\n- Elang Bondol memiliki panjang tubuh 43 - 51 cm.\n- Resiko Elang Bondol terancam punah termasuk rendah\n- Elang Bondol memiliki kebiasaan memakan buruannya saat terbang</item>
+    </string-array>
+
+    <string-array name="animal_information_source">
+        <item>https://id.wikipedia.org/wiki/Hiu_putih</item>
+        <item>https://travel.detik.com/travel-news/d-5682107/panjang-umur-panda-raksasa-tertua-rayakan-ulang-tahun-ke-35</item>
+        <item>https://en.wikipedia.org/wiki/Koala</item>
+        <item>https://id.wikipedia.org/wiki/Komodo#:~:text=Komodo%20atau%20lengkapnya%20biawak%20komodo,disebut%20dengan%20nama%20setempat%20ora</item>
+        <item>https://id.wikipedia.org/wiki/Kolibri</item>
+        <item>https://id.wikipedia.org/wiki/Serigala_abu-abu</item>
+        <item>https://id.wikipedia.org/wiki/Panda_merah</item>
+        <item>https://protan.faperta.unej.ac.id/belalang-sembah-sahabat-ku-dalam-biodiversitas-serangga/</item>
+        <item>https://id.wikipedia.org/wiki/Ikan_giru</item>
+        <item>https://id.wikipedia.org/wiki/Elang_bondol</item>
+    </string-array>
+</resources>

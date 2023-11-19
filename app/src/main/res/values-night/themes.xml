@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Zoopedia" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#006c4b</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#7e9688</item>
+        <item name="colorTertiary">#7096a7</item>
+    </style>
+
+    <style name="SplashScreenStyle" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#006c4b</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#7e9688</item>
+        <item name="colorTertiary">#7096a7</item>
+    </style>
+</resources>
